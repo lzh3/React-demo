@@ -1,0 +1,10 @@
+.form-box{
+    width:300px;
+    margin:0 auto;
+    transform: translateY(50%);
+}
+.form-box h2{
+    font-size: 24px;
+    color:#fff;
+    text-align: center;
+}
